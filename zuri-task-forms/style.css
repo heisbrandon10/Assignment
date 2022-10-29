@@ -1,0 +1,67 @@
+*,
+::before {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 100%;
+  color: blue;
+  background-color: whitesmoke;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  height: auto;
+  width: auto;
+  text-align: center;
+  background-color: beige;
+  border: 1px;
+  border-radius: 6px;
+  padding: 10px;
+}
+.header {
+  font-size: 50px;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 100;
+}
+select {
+  width: 100px;
+  padding: 10px;
+  border-radius: 10px;
+}
+h1 {
+  padding: 10px;
+  font-size: 40px;
+  background-color: beige;
+}
+.heading {
+  padding: 10px;
+  font-size: 40px;
+}
+.login-signup {
+  background-color: grey;
+  box-sizing: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.holder {
+  display: flex;
+  justify-content: center;
+  height: auto;
+  width: auto;
+  text-align: center;
+  background-color: beige;
+  border: 1px;
+  border-radius: 6px;
+  padding: 10px;
+}
